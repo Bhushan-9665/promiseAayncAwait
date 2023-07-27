@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    width: 100%;
+    background-color: rgb(65, 64, 64);
+    color: beige;
+}
+
+pre{
+    font-size: 20px;
+}
